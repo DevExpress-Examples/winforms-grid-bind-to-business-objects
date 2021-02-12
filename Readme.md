@@ -13,6 +13,12 @@
 * Two ways of changing cell values - at the data source and grid level.
 * Highlighting cell values that meet a condition</p>
 
+<b>See also:</b>
+
+[DevExpress WinForms Cheat Sheet - Supported Data Access Technologies and Data Sources](https://go.devexpress.com/CheatSheets_WinForms_Examples_T904237.aspx)
+
+[DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
+
 <br/>
 
 
