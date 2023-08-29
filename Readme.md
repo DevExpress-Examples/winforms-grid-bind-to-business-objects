@@ -3,27 +3,32 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T604166)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WinForms Data Grid - Bind to a collection of business objects
+
+This example shows how to bind the `GridControl` to a collection of `Record` objects. The example also demonstrates the following:
+
+* How to assign an in-place/cell editor (Combobox) to a grid column.
+* How to apply `DataAnnotation` attributes to properties of the `Record` class to specify the display name and data format of grid columns.  
+* How to specify cell values at the data source and grid level.
+* How to highlight cell values based on a specific condition.
+
+
+## Files to Review
 
 * [Form1.cs](./CS/GridBoundToRuntimeCreatedData/Form1.cs) (VB: [Form1.vb](./VB/GridBoundToRuntimeCreatedData/Form1.vb))
-<!-- default file list end -->
-# How to bind GridControl to a collection of Business Objects
 
 
-<p>This example binds a GridControl to a collection of custom Record objects and demonstrates the following features
+## Documentation
 
-* Assigning an inplace editor (combo box) to a column
-* Specifying a column's display name and data format by applying DataAnnotation attributes to Record class properties 
-* Two ways of changing cell values - at the data source and grid level.
-* Highlighting cell values that meet a condition</p>
+* [Data Binding - WinForms Data Grid](https://docs.devexpress.com/WindowsForms/634/controls-and-libraries/data-grid/data-binding)
+* [Edit Data. Create Cell Editors. Validate User Input](https://docs.devexpress.com/WindowsForms/753/controls-and-libraries/data-grid/data-editing-and-validation/modify-and-validate-cell-values)
+* [Data Annotation Attributes](https://docs.devexpress.com/WindowsForms/18273/common-features/data-binding/data-annotation-attributes)
+* [Appearance and Conditional Formatting](https://docs.devexpress.com/WindowsForms/115548/controls-and-libraries/data-grid/appearance-and-conditional-formatting)
 
-<b>See also:</b>
 
-[DevExpress WinForms Cheat Sheet - Supported Data Access Technologies and Data Sources](https://go.devexpress.com/CheatSheets_WinForms_Examples_T904237.aspx)
+## See Also
 
-[DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
-
-<br/>
-
+* [DevExpress WinForms Cheat Sheet - Supported Data Access Technologies and Data Sources](https://go.devexpress.com/CheatSheets_WinForms_Examples_T904237.aspx)
+* [DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
 
